@@ -43,7 +43,7 @@
 
           <div class="hint">
             <span class="dot" aria-hidden="true"></span>
-            <span>t.me/bxplab_admin</span>
+            <span>t.me/bxp_lab</span>
           </div>
         </div>
 
@@ -58,7 +58,7 @@ import { computed, onMounted, reactive, ref } from 'vue'
 import ParticleBackground from './ParticleBackground.vue'
 import logoUrl from '../assets/logo.png'
 
-const tgLink = 'https://t.me/bxplab_admin'
+const tgLink = 'https://t.me/bxp_lab'
 
 const ready = ref(false)
 
